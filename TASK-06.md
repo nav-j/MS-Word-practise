@@ -1,18 +1,16 @@
-
-```markdown
-# 📘 Microsoft Word Task – Using the Reference Tab
+# Microsoft Word Task – Using the Reference Tab
 
 This is a beginner-friendly **Microsoft Word task** focused on using the **Reference tab** features such as **Table of Contents**, **Footnotes**, **Citations**, and **Bibliography**.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To practice using the tools in the **References** tab to add a Table of Contents, Footnotes, Citations, and a Bibliography to a Word document.
 
 ---
 
-## 📌 Task Instructions
+## Task Instructions
 
 1. **Open Microsoft Word** and start a new blank document.
 
@@ -53,7 +51,7 @@ To practice using the tools in the **References** tab to add a Table of Contents
 
 ---
 
-## ✅ Expected Outcome
+## Expected Outcome
 
 - A well-structured Word document with:
   - A **Table of Contents** based on headings
